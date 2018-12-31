@@ -1,0 +1,8 @@
+# Please place me in /etc/ezcast/config
+#
+# All youtube-dl URLs are avaliable such as:
+#	video
+#	playlist
+#	channel
+#
+# Please consult the youtube-dl documentation for additional information
